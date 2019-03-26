@@ -105,7 +105,8 @@
     "page/cloud/pages/scf-storage/scf-storage",
     "page/component/pages/doc-web-view/doc-web-view",
     "page/API/pages/doc-web-view/doc-web-view",
-    "page/cloud/pages/doc-web-view/doc-web-view"
+    "page/cloud/pages/doc-web-view/doc-web-view",
+    "page/component/pages/test/test"
   ],
   "window": {
     "navigationBarTextStyle": "black",
